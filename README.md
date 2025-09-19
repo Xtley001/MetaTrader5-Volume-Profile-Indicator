@@ -1,5 +1,3 @@
-
-````markdown
 # 📊 MT5 Volume Profile Indicator  
 
 An advanced **institutional-style Volume Profile Indicator** for MetaTrader 5 that helps traders visualize market structure with precision.  
@@ -26,7 +24,7 @@ It integrates **POC, VAH/VAL, buy/sell histograms, failed auction detection, and
 
    ```bash
    MQL5/Indicators/
-````
+   ```
 
 2. Restart MetaTrader 5.
 3. Attach the indicator to your chart.
@@ -88,7 +86,7 @@ It integrates **POC, VAH/VAL, buy/sell histograms, failed auction detection, and
 
 ## 👨‍💻 Author
 
-**Christley Olubela**
+**Christley Olubela**  
 📌 [Twitter/X](https://x.com/xtley001)
 
 ---
