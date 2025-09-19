@@ -52,12 +52,6 @@ It integrates **POC, VAH/VAL, buy/sell histograms, failed auction detection, and
 
 ---
 
-## 📸 Preview
-
-*(Insert screenshots or GIF of the indicator running on MT5 chart here)*
-
----
-
 ## 🚀 Usage
 
 1. Add the indicator to your chart.
